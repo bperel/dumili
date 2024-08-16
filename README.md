@@ -1,5 +1,3 @@
 # DUcksManager Inducks LIttle helper
 
-Using AI to help indexing issues on Inducks
-
-WIP
+Moved [here](https://github.com/ducksmanager/core/tree/master/apps/dumili)
